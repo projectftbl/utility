@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/utility",
+  "name": "@recipher/utility",
   "version": "1.1.1",
   "description": "Utilities",
   "main": "node index",
@@ -14,14 +14,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/utility.git"
+    "url": "git@github.com:recipher/utility.git"
   },
   "dependencies": {
     "lodash": "^3.10.1",
     "string": "^3.3.1"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
